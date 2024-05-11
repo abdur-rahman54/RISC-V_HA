@@ -1,0 +1,9 @@
+#!/bin/bash
+
+file=$1
+comments="$2"
+
+git pull origin main
+git add "$file"
+git commit -m "$comments"
+git push
