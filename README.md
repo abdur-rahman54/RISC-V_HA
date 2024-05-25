@@ -9,3 +9,6 @@ This project aims to design and implement a hardware accelerator for Convolution
 - Support for various CNN architectures and layer types.
 - Flexible design for easy integration into different FPGA platforms.
 - Performance benchmarks and comparison with software implementations.
+
+
+we are aiming to use spinal hdl as a hdl language instead of verilog or vhdl.
